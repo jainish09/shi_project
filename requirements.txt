@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlalchemy
+geopandas
+shapely
+pandas
+scikit-learn
+xgboost
+requests
+folium
+plotly
+streamlit
+earthengine-api
